@@ -1,4 +1,4 @@
-I am a ![Selection_002](https://github.com/user-attachments/assets/79244432-804e-43fc-8789-52493ec37c48) ​ yo intermediate python and C programmer. 
+I am a ![Selection_002](https://github.com/user-attachments/assets/79244432-804e-43fc-8789-52493ec37c48) ​ yo intermediate python and C programmer (Don't you dare solve that monstrocity.) 
 
 I hack stuff for fun when all games go boring.
 
