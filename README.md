@@ -1,5 +1,1 @@
-I am a ![Selection_002](https://github.com/user-attachments/assets/79244432-804e-43fc-8789-52493ec37c48) ​ yo intermediate python and C programmer (Don't you dare solve that monstrocity.) 
 
-I hack stuff for fun when all games go boring.
-
-My setup is void linux with the [musl c standard library](http://musl.cc/) on a (bios hacked with full uefi coreboot firmware) [HP Chromebook X360 14b-cb0013dx](https://www.google.com/search?q=HP+Chromebook+X360+14b-cb0013dx&sca_esv=37cfade011399915&sca_upv=1&sxsrf=ADLYWILlrejwgKFht1smOhMdW8clNDbVlA%3A1724016207999&source=hp&ei=T2bCZrXoOtXE0PEPuPPi6Qk&iflsig=AL9hbdgAAAAAZsJ0XyyCFmcNifXm8WD6yFgoOyLW7FRb&ved=0ahUKEwj1y6btvP-HAxVVIjQIHbi5OJ0Q4dUDCBg&uact=5&oq=HP+Chromebook+X360+14b-cb0013dx&gs_lp=Egdnd3Mtd2l6Ih9IUCBDaHJvbWVib29rIFgzNjAgMTRiLWNiMDAxM2R4MggQLhiABBjlBDIGEAAYFhgeMgsQABiABBiGAxiKBTILEAAYgAQYhgMYigUyCxAAGIAEGIYDGIoFMggQABiABBiiBDIIEAAYgAQYogRIoQRQAFgAcAB4AJABAJgBlAGgAZQBqgEDMC4xuAEDyAEA-AEC-AEBmAIBoAKnAZgDAJIHAzAuMaAHyQc&sclient=gws-wiz) (most evil device I ever have, its discontinued). 
